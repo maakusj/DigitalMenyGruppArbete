@@ -1,0 +1,325 @@
+{
+	"courses": [
+		{
+			"id": 1,
+			"name": {
+				"sv": "FLÄSKFILÉPLANKA",
+				"en": "PORK TENDERLOIN PLANK STEAK"
+			},
+			"price": {
+				"sv": 149,
+				"en": 149
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Duchesse mos, rödvinssky, bearnaise och stekta grönsaker",
+				"en": "Duchesse potatoes, a redwine reduction, béarnaise and fried vegetables"
+			},
+			"foodType": {
+				"sv": ["Fläsk"],
+				"en": ["Pork"]
+			},
+			"allergies": {
+				"sv": ["Laktos"],
+				"en": ["Lactose"]
+			}
+		},
+		{
+			"id": 2,
+			"name": {
+				"sv": "BIFF RYDBERG",
+				"en": "BIFF RYDBERG"
+			},
+			"price": {
+				"sv": 175,
+				"en": 175
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Tärnad oxfilé, potatis och gullök, serveras med dijonsenapskräm och rå äggula",
+				"en": "Diced beef tenderloin, potatoes and onion, served with dijonmustard and raw egg yolk"
+			},
+			"foodType": {
+				"sv": ["Nöt"],
+				"en": ["Beef"]
+			},
+			"allergies": {
+				"sv": ["Laktos"],
+				"en": ["Lactose"]
+			}
+		},
+		{
+			"id": 3,
+			"name": {
+				"sv": "SPICY CHEESEBURGER",
+				"en": "SPICY CHEESEBURGER"
+			},
+			"price": {
+				"sv": 155,
+				"en": 155
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "180gram högrevsburgare med sallad, tomat, picklade rödlök, cheddarost med jalapeños och barbecuesås i briochebröd med pommes och rökig ranch-aioli",
+				"en": "180gram prime rib burger with lettuce, tomato, pickled red onion, cheddar cheese with jalapeños and barbecue sauce in brioche bread with fries and smokey ranch-aioli"
+			},
+			"foodType": {
+				"sv": ["Nöt"],
+				"en": ["Beef"]
+			},
+			"allergies": {
+				"sv": ["Gluten"],
+				"en": ["Gluten"]
+			}
+		},
+		{
+			"id": 4,
+			"name": {
+				"sv": "HALLOUMI BURGARE",
+				"en": "HALLOUMI BURGER"
+			},
+			"price": {
+				"sv": 155,
+				"en": 155
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Sallad, tomat, rödlök och guacamole i briochebröd med pommes och aioli",
+				"en": "Lettuce, tomato, red onion and guacamole in brioche bread with fries and aioli"
+			},
+			"foodType": {
+				"sv": ["Vegetarisk"],
+				"en": ["Vegetarian"]
+			},
+			"allergies": {
+				"sv": ["Gluten"],
+				"en": ["Gluten"]
+			}
+		},
+		{
+			"id": 5,
+			"name": {
+				"sv": "FISH'N CHIPS",
+				"en": "FISH'N CHIPS"
+			},
+			"price": {
+				"sv": 149,
+				"en": 149
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "'Beer-batter' panerad torskrygg med dill-aioli, halstrad citron och pommes",
+				"en": "Beer-batter breaded cod loins with dill-aioli, seared lemon and fries"
+			},
+			"foodType": {
+				"sv": ["Fisk"],
+				"en": ["Fish"]
+			},
+			"allergies": {
+				"sv": ["Gluten", "Laktos"],
+				"en": ["Gluten", "Lactose"]
+			}
+		},
+		{
+			"id": 6,
+			"name": {
+				"sv": "HUSETS SCHNITZEL",
+				"en": "SCHNITZEL"
+			},
+			"price": {
+				"sv": 175,
+				"en": 175
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "200 gram välbankad schnitzel 'Borås största' med citron, kapris, anjovis, kryddsmör och rödvinssky serveras med stekt potatis",
+				"en": "200 grams of meat 'Borås biggest' served with lemon, capers, anchovy, herb butter and a redwine reduction with fried potatoes"
+			},
+			"foodType": {
+				"sv": ["Nöt"],
+				"en": ["Beef"]
+			},
+			"allergies": {
+				"sv": ["Gluten"],
+				"en": ["Gluten"]
+			}
+		},
+		{
+			"id": 7,
+			"name": {
+				"sv": "CAESARSALLAD",
+				"en": "CAESAR SALAD"
+			},
+			"sizeHalf": {
+				"sv": "HALV",
+				"en": "HALF"
+			},
+			"sizeWhole": {
+				"sv": "HEL",
+				"en": "WHOLE"
+			},
+			"priceHalf": {
+				"sv": 85,
+				"en": 85
+			},
+			"price": {
+				"sv": 139,
+				"en": 139
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Varm kyckling, bacon, krutonger, parmesan samt caesardressing",
+				"en": "Grilled chicken, bacon, croutons, parmesan and caesardressing"
+			},
+			"foodType": {
+				"sv": ["Kyckling", "Fläsk"],
+				"en": ["Chicken", "Pork"]
+			},
+			"allergies": {
+				"sv": ["Gluten", "Laktos"],
+				"en": ["Gluten", "Lactose"]
+			}
+		},
+		{
+			"id": 8,
+			"name": {
+				"sv": "LAXSALLAD MED QUINOA",
+				"en": "SALMONSALLAD WITH QUINOA"
+			},
+			"price": {
+				"sv": 159,
+				"en": 159
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Grillad lax med quinoa, cocktailtomater, blandsallad, morot julienne, rödlök med en vinägrett",
+				"en": "Grilled salmon with quinoa, cocktail tomatoes, julianne carrot, mixed salad, red onion with vinegrette"
+			},
+			"foodType": {
+				"sv": ["Fisk"],
+				"en": ["Fish"]
+			},
+			"allergies": {
+				"sv": [""],
+				"en": [""]
+			}
+		},
+		{
+			"id": 9,
+			"name": {
+				"sv": "KRÄMIG KYCKLING PASTA",
+				"en": "CREAMY CHICKENPASTA"
+			},
+			"price": {
+				"sv": 169,
+				"en": 169
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Soltorkade tomater, basilika, grönsaker och parmesan",
+				"en": "Sundried tomatoes, basil, vegetables and parmesan"
+			},
+			"foodType": {
+				"sv": ["Kyckling"],
+				"en": ["Chicken"]
+			},
+			"allergies": {
+				"sv": ["Gluten", "Laktos"],
+				"en": ["Gluten", "Lactose"]
+			}
+		},
+		{
+			"id": 10,
+			"name": {
+				"sv": "MUSSLOR AL CAVA",
+				"en": "MUSSLES ÁL CAVA"
+			},
+			"sizeHalf": {
+				"sv": "HALV",
+				"en": "HALF"
+			},
+			"sizeWhole": {
+				"sv": "HEL",
+				"en": "WHOLE"
+			},
+			"priceHalf": {
+				"sv": 109,
+				"en": 109
+			},
+			"price": {
+				"sv": 189,
+				"en": 189
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "Ångkokta musslor i en krämig sås gjord på cava, toppas med cream fraîche och jalapeños, serveras med pommes och aioli",
+				"en": "Steamed mussels in a creamy cava sauce, topped with cream fraîche and jalapeños, served with fries and aioli"
+			},
+			"foodType": {
+				"sv": ["Fisk"],
+				"en": ["Fish"]
+			},
+			"allergies": {
+				"sv": ["Laktos"],
+				"en": ["Lactose"]
+			}
+		},
+		{
+			"id": 11,
+			"name": {
+				"sv": "GRILLAD OXFILE",
+				"en": "GRILLED BEEF TENDERLOIN"
+			},
+			"price": {
+				"sv": 259,
+				"en": 259
+			},
+			"currency": {
+				"sv": "KR",
+				"en": "KR"
+			},
+			"about": {
+				"sv": "200 gram oxfilé, rödvinssås, frästa grönsaker serveras med potatisgratäng (går att få med pommes och bearnaise)",
+				"en": "200 gram beef tenderloin, redwine reduction, fried vegetable and potato gratin (possible with fries and bearnaise)"
+			},
+			"foodType": {
+				"sv": ["Nöt"],
+				"en": ["Beef"]
+			},
+			"allergies": {
+				"sv": ["Laktos"],
+				"en": ["Lactose"]
+			}
+		}
+	]
+}

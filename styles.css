@@ -1,0 +1,73 @@
+/* Stilar för logotypen inom .navbar-brand */
+.navbar-brand > img {
+	border-radius: 50%;
+}
+/* Stilar för element med id #cards-menu */
+#cards-menu {
+	margin-top: 63px;
+	justify-content: space-between;
+}
+/*side margins on menu*/
+.row {
+	margin: 0% 4%;
+}
+/* Stilar för direkt underordnade div-element inom #cards-menu */
+#cards-menu > div {
+	margin-top: 1rem;
+	max-width: 80ch; /* Begränsa maximal bredd för innehåll i varje div */
+}
+.carouselExampleIndicators {
+	box-sizing: border-box;
+}
+/* Stilar för h1-element och h5 */
+h1,
+h5 {
+	font-family: "Cookie", cursive;
+	display: inline;
+	font-size: 2rem;
+	font-weight: 400;
+}
+/* Stilar för h2-element */
+h2 {
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+/* No "jumping" pictures */
+.carousel-item {
+	max-height: 800px;
+}
+/* Same height, padding and color as nav */
+footer {
+	height: 67px;
+	padding: 8px 12px;
+	background-color: #f8f9fa;
+}
+/* same text color */
+h1,
+body,
+.offcanvas,
+.offcanvas-header,
+.offcanvas-body a,
+.dropdown-menu {
+	color: #575b5e !important;
+}
+/* Changed color on dropdown menu buttons */
+.btn-primary {
+	background-color: #62849e;
+	border: none;
+}
+.btn-primary:hover {
+	background-color: #52a1de;
+}
+.btn-danger {
+	background-color: #9e6462;
+	border: none;
+}
+.btn-danger:hover {
+	background-color: #f59b98;
+	border: none;
+}
+/* Better click area when block */
+.form-check-label {
+	display: block;
+}
